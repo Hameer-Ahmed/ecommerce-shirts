@@ -31,7 +31,7 @@ export const products = [
     productTitle: "Floral Summer Dress",
     productPrice: 39.99,
     productImageLink: [
-      "https://images.unsplash.com/photo-1551234250-d88296f43838",
+      "https://furorjeans.com/cdn/shop/files/24_M_MenTees_FMTCT24-001_5_375x_crop_center.jpg?v=1713866632",
       "https://images.unsplash.com/photo-1571856770672-f00f405e982d",
       "https://images.unsplash.com/photo-1568051243853-d624e7edd6da",
     ],
